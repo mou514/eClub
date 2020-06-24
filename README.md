@@ -1,3 +1,1 @@
 # eClub
-
-## First Commit
